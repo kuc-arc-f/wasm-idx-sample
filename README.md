@@ -6,7 +6,7 @@
 
  date    : 2020/09/08
 
- update :
+ update : 2020/09/09
 
 ***
 
@@ -15,6 +15,10 @@ Github pages file , React / Rust WebAssembly app
 ***
 ### sample 
 
+https://kuc-arc-f.github.io/wasm-idx-sample
+
+***
+### more
 
 ***
 
